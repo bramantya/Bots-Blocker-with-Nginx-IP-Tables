@@ -8,6 +8,8 @@ CentOS 6 & 7
 $ wget https://raw.githubusercontent.com/bramantya/Bots-Blocker-with-Nginx-IP-Tables/master/bots.sh -O bots.sh
 $ bash bots.sh
 ```
+## Original Source on Github ##
+Link : https://github.com/teguhmicro
 
 ## MIT License ##
 
